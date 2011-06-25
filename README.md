@@ -1,1 +1,2 @@
 jQuery wrapper for the Google +1 button. Renders +1 button on the page inside target DOM element and writes Google API script tag on the fly, if not included with the intial page load. (6/25/2011 - Callback functionality needs to be revisited)
+More information about the plugin can be found at http://code.google.com/apis/+1button/
