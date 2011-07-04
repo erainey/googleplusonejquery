@@ -22,7 +22,7 @@ function alertState(plusone) {
 
 }
 
-$('div').gPlusOne({
+<code>$('div').gPlusOne({</code>
 	
 	href: "http://www.google.com",
 	
