@@ -1,4 +1,4 @@
-jQuery wrapper for the Google +1 button. Renders +1 button on the page inside target DOM element and writes Google API script tag on the fly, if not included with the initial page load. Requires jQuery library.
+jQuery wrapper for the Google +1 button. Renders +1 button on the page inside target DOM element and writes Google API script tag into the DOM on the fly. Requires jQuery library.
 
 Call the gPlusOne function on the DOM element you wish to target, for example:
 
