@@ -19,13 +19,19 @@ Example of "callback" property integration:
 
 function alertState(plusone) {	
 	alert('+1 Button state is now' + plusone.state);
+
 }
 
 $('div').gPlusOne({
+	
 	href: "http://www.google.com",
+	
 	size: "small",	
+	
 	count: "false",
+	
 	callback: "alertState"		
+
 });
 
 
