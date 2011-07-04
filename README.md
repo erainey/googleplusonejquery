@@ -16,18 +16,18 @@ Different properties can be manipulated, based on the Google +1 button attribute
 
 Example of "callback" property integration:
 
-<script>
-function alertState(plusone) {
+
+function alertState(plusone) {	
 	alert('+1 Button state is now' + plusone.state);
 }
 
 $('div').gPlusOne({
 	href: "http://www.google.com",
-	size: "small",
+	size: "small",	
 	count: "false",
 	callback: "alertState"		
 });
-</script>
+
 
 
 More information about the Google +1 Button can be found at http://code.google.com/apis/+1button/
