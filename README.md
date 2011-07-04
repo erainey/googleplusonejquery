@@ -27,4 +27,4 @@ $('div').gPlusOne({
 </script>
 
 
-More information about the plugin can be found at http://code.google.com/apis/+1button/
+More information about the Google +1 Button can be found at http://code.google.com/apis/+1button/
