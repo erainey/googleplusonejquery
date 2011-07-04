@@ -1,4 +1,4 @@
-/*!
+/*
  * Google +1 Button jQuery Plugin
  * Copyright 2011, Eric Rainey
  * Free to use under the MIT license.
